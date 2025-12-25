@@ -1,0 +1,15 @@
+[
+    {
+    "eventName": "Adelaide Strikers v Melbourne Stars", 
+    "eventId": "35071141", 
+    "marketId": "1.251858897", 
+    "selection":[{"selectionName": "Adelaide Strikers", "selectionId": 5728253},{"selectionName": "Melbourne Stars", "selectionId": 5728187}]
+    },
+    {
+    "eventName": "India v South Africa", 
+    "eventId": "35067952", 
+    "marketId": "1.251816426", 
+    "selection":[{"selectionName": "India", "selectionId": 414464}, {"selectionName": "South Africa", "selectionId": 349}]
+    }
+]
+
