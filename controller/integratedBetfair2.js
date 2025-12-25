@@ -3,7 +3,7 @@ import path from "path";
 import fetch from "node-fetch";
 // import { connect } from "../db/mongo.js";
 
-const appKey = "DsGV2EVu8pDQHvVs";
+const appKey = "mTqzso0cthLMa6js";
 
 async function getSessionTokenFromFile() {
   const filePath = path.join(process.cwd(), "BetfairAuth2.json");
