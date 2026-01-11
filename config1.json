@@ -1,0 +1,15 @@
+[
+    {
+    "eventName": "Melbourne Stars v Sydney Sixers", 
+    "eventId": "35117854", 
+    "marketId": "1.252387922", 
+    "selection":[{"selectionName": "Melbourne Stars", "selectionId": 5728187},{"selectionName": "Sydney Sixers", "selectionId": 5728225}]
+    },
+    {
+    "eventName": "Hobart Hurricanes v Adelaide Strikers", 
+    "eventId": "35121909", 
+    "marketId": "1.252429090", 
+    "selection":[{"selectionName": "Hobart Hurricanes", "selectionId": 5728193}, {"selectionName": "Adelaide Strikers", "selectionId": 5728253}]
+    }
+]
+
